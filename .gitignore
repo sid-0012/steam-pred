@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+.DS_Store
+
+# Data files
+*.json.gz
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!jsconfig.json
+
